@@ -1,1 +1,1 @@
-# olá meu é Isaac Rezende e eu estou usando o GitHub.
+# olá meu nome é Isaac Rezende e eu estou usando o GitHub.
